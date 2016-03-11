@@ -70,4 +70,4 @@ Logger.Name: `TrackingInjectionFactoryTests`<br/>
 Logger.Name: `TrackingInjectionFactoryTests`<br/>
 
 see [discussions](http://unity.codeplex.com/discussions/203744)<br/>
-You can obtain an specified Logger for each type.
+#You can obtain a specified logger for each type.:blush:
